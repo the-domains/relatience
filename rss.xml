@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Relatience]]></title>
         <description><![CDATA[Relatience]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/relatience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:36:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 10:40:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/relatience/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Let me tell you one thing about children. They are never short of questions. "What would a tree say to a car?", my five year old son asked me a few years ago. "Don't hit me?", I suggested, but he insisted that a tree would ask "Don't pollute me, please", as he fortunately never saw a car hit a tree. </p>]]></description>
-            <link>undefinedlet-me-tell-you-one-thing-about-children-they-are-never-sho/index.html</link>
+            <link>https://thegrid.ai/relatience/let-me-tell-you-one-thing-about-children-they-are-never-sho/index.html</link>
             <guid isPermaLink="false">4cfb3723-ac86-4e8d-986c-b965d618fa3c</guid>
-            <pubDate>Tue, 10 May 2016 10:36:04 GMT</pubDate>
+            <pubDate>Tue, 10 May 2016 10:40:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
