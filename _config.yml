@@ -1,0 +1,28 @@
+name: Relatience
+favicon: null
+layout_spectrum: 0.14915995439514518
+typography_spectrum: 0.35004177619703114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2013241855893284
+  lightness: 0.7012534313835204
+  saturation: 0.5598661981057376
+  rhythmicContrast: 0.4728691673371941
+purpose: []
