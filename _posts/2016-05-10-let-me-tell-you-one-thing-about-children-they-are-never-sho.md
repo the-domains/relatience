@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Let me tell you one thing about children. They are never short of questions. \"What would a tree say to a car?\", my five year old son asked me a few years ago. \"Don't hit me?\", I suggested, but he insisted that a tree would ask \"Don't pollute me, please\", as he fortunately never saw a car hit a tree. "
-datePublished: '2016-05-10T10:40:14.642Z'
-dateModified: '2016-05-10T10:39:29.588Z'
+datePublished: '2016-05-10T10:52:49.981Z'
+dateModified: '2016-05-10T10:52:31.496Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-10-let-me-tell-you-one-thing-about-children-they-are-never-sho.md
@@ -16,11 +16,12 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: let-me-tell-you-one-thing-about-children-they-are-never-sho/index.html
 _type: Article
 
 ---
+Science in Change
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ebb660f-c34a-447e-b0c0-2b3977f6cd2e.jpg)
 
 Let me tell you one thing about children. They are never short of questions. "What would a tree say to a car?", my five year old son asked me a few years ago. "Don't hit me?", I suggested, but he insisted that a tree would ask "Don't pollute me, please", as he fortunately never saw a car hit a tree. 
