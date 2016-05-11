@@ -4,7 +4,7 @@
         <description><![CDATA[Projects on social network analyses and internet-of-things]]></description>
         <link>https://thegrid.ai/relatience/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 10:58:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 10:48:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/relatience/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Science in Change]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/relatience/let-me-tell-you-one-thing-about-children-they-are-never-sho/index.html</link>
             <guid isPermaLink="false">4cfb3723-ac86-4e8d-986c-b965d618fa3c</guid>
             <pubDate>Tue, 10 May 2016 10:58:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Framework to Model IoT Questions]]></title>
+            <description><![CDATA[<p>A key communal aspect of questions pertaining to IoT is that they are often about coordination of actions with an ultimate relevance for (groups of) humans. A natural place to look at models that deal with relational questions that involve humans is social network analyses (SNA). </p>]]></description>
+            <link>https://thegrid.ai/relatience/a-framework-to-model-iot-questions/index.html</link>
+            <guid isPermaLink="false">1c20e92a-7f5a-43af-9dba-2f51b727f86c</guid>
+            <pubDate>Wed, 11 May 2016 10:48:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
